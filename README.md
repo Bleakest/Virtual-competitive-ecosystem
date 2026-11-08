@@ -15,13 +15,15 @@
 
 ## Статус
 
-**EPIC-01 — Product Discovery.** DISC-01 зафиксирован; спецификации DISC-02 и DISC-03 **утверждены владельцем 2026-11-08**. DISC-04—DISC-10 и техническое проектирование впереди. Приложение не реализовано, стек не утверждён.
+**EPIC-01 — Product Discovery.** DISC-01 зафиксирован; спецификации DISC-02 и DISC-03 **утверждены владельцем 2026-11-08**. Базовые модели DISC-04 (мир и NPC) и DISC-05 (дисциплины) зафиксированы в рамках делегирования. DISC-06—DISC-10 и техническое проектирование впереди. Приложение не реализовано, стек не утверждён.
 
 ## Документация
 
 - [Product Vision](docs/product/vision.md) — ценность, аудитория, основные принципы, границы и открытые вопросы (DISC-01).
 - [Accounts & Characters](docs/product/accounts-and-characters.md) — аккаунты, независимые персонажи, ограничения (DISC-02; утверждено).
 - [Role Lifecycles](docs/product/role-lifecycles.md) — жизненные циклы игрока и менеджера (DISC-03; утверждено).
+- [World & NPC](docs/product/world-and-npc.md) — устройство мира, жизненный цикл NPC и отличие от офлайн-автоматики (DISC-04).
+- [Disciplines](docs/product/disciplines.md) — общее ядро и специфичные правила футбола и Counter-Strike как примеров (DISC-05).
 - [Project Brief](docs/product/project-brief.md) — актуальный контекст для проектирования и работы в новых чатах.
 - [Decision Log](docs/planning/decision-log.md) — хронология согласованных решений и пересмотра ролей.
 
